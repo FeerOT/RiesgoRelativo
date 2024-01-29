@@ -48,3 +48,6 @@ Los principales resultados y conclusiones obtenidos fueron:
 - Se identificaron patrones de comportamiento
 - Se identificaron cuartiles de riesgos
 - Se establecieron recomendaciones para la el banco sobre garantias, tolerancias, etc.
+
+# Herramientas
+https://console.cloud.google.com/bigquery?project=riesgo-relativo-406716&ws=!1m0
